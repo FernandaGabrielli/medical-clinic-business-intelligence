@@ -61,12 +61,8 @@ O dashboard apresenta:
 
 ```text
  ├── Notebook_ETL.ipynb
-
-📁 data
  ├── grupo2_clinica.csv
- └── dataset_limpo.csv
-
-📁 docs
+ ├── dataset_limpo.csv
  └── Etapa1_Exploracao.pdf
 
 README.md
